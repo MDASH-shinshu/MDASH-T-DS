@@ -58,5 +58,3 @@ https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=82
 * 産学連携 / 工学教育寄付講座
 https://lms.ealps.shinshu-u.ac.jp/other/course/index.php?categoryid=16
 
-
-
