@@ -57,19 +57,6 @@
 * 産学連携 / デジタル人材育成共同研究講座
 https://lms.ealps.shinshu-u.ac.jp/other/course/index.php?categoryid=15
 
-<<<<<<< Updated upstream
-* データエンジニアリング(DE)概論
-https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=88
-
-* データサイエンス(DS)概論
-https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=82
-
-* 産学連携 / 工学教育寄付講座
-https://lms.ealps.shinshu-u.ac.jp/other/course/index.php?categoryid=16
-
-<<<<<<< HEAD
-
-=======
 * データサイエンス概論
 https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=82
 * データエンジニアリング概論
