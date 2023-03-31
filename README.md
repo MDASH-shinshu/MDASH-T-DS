@@ -2,12 +2,6 @@
 
 信州大学「データサイエンス(DS)基礎（工学部）」 教材リポジトリ
 
-## 参照されるeALPSコース
-
-学部・研究科共通 > データデータサイエンス(DS)基礎(T) ※年度で更新されない場所で設置してある
-* https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=146
-
-
 ## 教材形式
 
 * Google colab版: 直接colab環境で実行できる形式（変更したければ個々人のGoogleドライブへコピーが必要）
