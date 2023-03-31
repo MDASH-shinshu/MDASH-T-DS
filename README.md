@@ -67,6 +67,7 @@ https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=82
 * 産学連携 / 工学教育寄付講座
 https://lms.ealps.shinshu-u.ac.jp/other/course/index.php?categoryid=16
 
+<<<<<<< HEAD
 
 =======
 * データサイエンス概論
@@ -93,5 +94,3 @@ https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=98
 https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=99
 * AI技術による自然言語処理ツール入門（小形先生）
 https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=100
->>>>>>> Stashed changes
-
