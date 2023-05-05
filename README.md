@@ -20,18 +20,18 @@
 
 * chap.1. データサイエンスサイクル（知識発見，原因究明，計画策定，判断支援など）
 * chap.2. 分析設計（仮説検証サイクル，データ分析⼿法，データ可視化⼿法，分割/統合）
-* chap.3. データ観察（比較対象の設定，クロス集計，バラツキ，ヒストグラム，散布図，特異点，関連性）
-* chap.4. データ分析（回帰分析，最小二乗法，ロジスティック回帰，最尤法，クラスター分析）
-* chap.5. データ可視化（可視化目的に応じた図表化（散布図，箱ひげ図，散布図行列，ヒートマップなど））
-* chap.6. アルゴリズム（フローチャート，ソートアルゴリズム，探索アルゴリズム，他）※オプション
+* chap.3. データ観察と可視化（データの要約、分割表、混合行列、データのバラツキ、リスク、オッズ、可視化目的に応じた図表化）
+* chap.4. データ分析1（回帰分析、ロジスティック分析、時系列分析）
+* chap.5. データ分析2（クラスター分析、パターン発見、次元削減）
+* chap.6. アルゴリズム（フローチャート，ソートアルゴリズム，探索アルゴリズム，他）
 
-* chap.7. 数学基礎（前半）※東大MIセンターのものを利用する
-* chap.8. 数学基礎（後半）※東大MIセンターのものを利用する
+* chap.7. 数学基礎（前半） ※東大MIセンターPDF分割
+* chap.8. 数学基礎（後半） ※東大MIセンターPDF分割
 
 
 # memo
 
-## 数理DS コア3科目（年度更新されない版） URL
+## 数理DS コア3科目（年度更新されない版） URL ※終息
 
 * DS基礎 https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=146
 * DE基礎 https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=147
@@ -55,10 +55,10 @@ https://lms.ealps.shinshu-u.ac.jp/other/course/index.php?categoryid=15
 https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=82
 * データエンジニアリング概論
 https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=88
-* 機械学習概論
+* 機械学習概論I
 https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=89
 * AIエンジニアリング概論（佐藤真平先生）
-※新規コース設置中
+https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=138
 
 ### 工学教育寄附講座
 
@@ -69,7 +69,7 @@ https://lms.ealps.shinshu-u.ac.jp/other/course/index.php?categoryid=16
 https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=96
 * データエンジニアリング概論
 https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=97
-* 機械学習概論
+* データマイニングと機械学習概論
 https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=98
 * 画像認識へのAIの適用（宮尾先生）
 https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=99
