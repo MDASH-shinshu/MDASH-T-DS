@@ -5,16 +5,16 @@
 ## 教材形式
 
 * Google colab版: 直接colab環境で実行できる形式（変更したければ個々人のGoogleドライブへコピーが必要）
-* Jupyter Notebook版: ローカルでipynbを実行するためのファイル一式 ZIPで固める
+* HTML版: Jupyter Notebook版からのHTMLエクスポート (HTML)
 * PDF版: Jupyter Notebook版からのPDFエクスポート (PDF)
-* HTML版: Jupyter Notebook版(Slide指定あり）からのReveal.js slides版をエクスポート (HTML)
+* Reveal.js版: Jupyter Notebook版(Slide指定あり）からのReveal.js slides版をエクスポート (HTML)
 
 ## GitHubからeALPSへのデプロイ方法
 
 1. 基本的に，Google colab版をmasterとしてから，Jupyter Notebook版としてコピー後 調整する． (.ipynb)
-2. Jupyter Notebook : Slide指定でRISEの動作を確認後， Reveal.js slides版をエクスポートする． (.html)
-3. Jupyter Notebook : 印刷プレビュー経由でPDF保存する．(.pdf)
-4. Jupyter Notebook版はZIP圧縮ファイルとすること．(.ipynb ⇒ .zip)
+2. Jupyter Notebook : 印刷プレビュー経由でPDF保存する．(.pdf)
+3. Jupyter Notebook : HTML版をエクスポートする． (.html)
+4. Jupyter Notebook : Slide指定でRISEの動作を確認後， Reveal.js slides版をエクスポートする． (.slides.html) https://revealjs.com/
 
 ## 目次
 
@@ -24,7 +24,6 @@
 * chap.4. データ分析1（回帰分析、ロジスティック分析、時系列分析）
 * chap.5. データ分析2（クラスター分析、パターン発見、次元削減）
 * chap.6. アルゴリズム（フローチャート，ソートアルゴリズム，探索アルゴリズム）
-
 * chap.7. 数学基礎（前半） ※東大MIセンター公開教材PDF
 * chap.8. 数学基礎（後半） ※東大MIセンター公開教材PDF
 
