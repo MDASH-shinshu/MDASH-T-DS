@@ -76,3 +76,8 @@
 <https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=80>
 * AI技術による自然言語処理ツール入門（小形先生）
 <https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=81>
+
+# jupyter notebook viewer
+
+* sec.3のノートブックを直接表示する例
+https://nbviewer.org/github/MDASH-shinshu/MDASH-T-DS/blob/main/3/3_data_search_and_visualization_colab.ipynb
