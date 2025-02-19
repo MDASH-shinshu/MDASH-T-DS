@@ -76,6 +76,9 @@
 <https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=80>
 * AI技術による自然言語処理ツール入門（小形先生）
 <https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=81>
+* 基礎制御設計（千田先生）
+<https://lms.ealps.shinshu-u.ac.jp/other/enrol/index.php?id=148>
+
 
 # jupyter notebook viewer
 
