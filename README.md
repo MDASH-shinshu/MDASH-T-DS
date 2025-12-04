@@ -33,7 +33,8 @@
 
 ## 数理DS コア3科目（年度更新されない版） URL
 
-* DS基礎 <https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=87>
+* DS基礎（25T以前） <https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=87>
+* 新DS基礎（26T以降） **e-learningセンターへコースコピー依頼中**
 * DE基礎 <https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=88>
 
 * 新DS・DE基礎(構築中) <https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=86>
@@ -50,6 +51,12 @@
 * DS基礎(2024) <https://lms.ealps.shinshu-u.ac.jp/2024/t/course/view.php?id=594>
 * DE基礎(2024) <https://lms.ealps.shinshu-u.ac.jp/2024/t/course/view.php?id=401>
 * AI基礎(2024) <https://lms.ealps.shinshu-u.ac.jp/2024/t/course/view.php?id=595>
+
+## 工学部 学部共通科目 データサイエンス科目（2025 R7年度版）　URL
+
+* DS基礎(2025)
+* DE基礎(2025) 
+* AI基礎(2025)
 
 ## 学外連携・その他 eALPS URL
 
