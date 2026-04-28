@@ -79,6 +79,8 @@
 * 産学連携 / 工学教育寄附講座
 <https://lms.ealps.shinshu-u.ac.jp/other/course/index.php?categoryid=16>
 
+* 数理データサイエンスの基礎
+<https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=108>
 * データサイエンス概論
 <https://lms.ealps.shinshu-u.ac.jp/other/course/view.php?id=30>
 * データエンジニアリング概論
